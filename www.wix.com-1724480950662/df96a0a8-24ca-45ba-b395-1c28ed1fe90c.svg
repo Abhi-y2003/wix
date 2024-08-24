@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="7 5.999 16 18.001" data-type="shape" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" role="presentation" aria-hidden="true" aria-label="">
+    <g>
+        <defs>
+            <filter id="83262a12-be21-47df-9e1f-5a613a202a50_audioOn-comp-lv48ras3" height="200%" width="200%" y="-50%" x="-50%">
+                <feOffset result="out-offset" in="SourceAlpha"></feOffset>
+                <feGaussianBlur result="out-blur" in="out-offset" stdDeviation="2"></feGaussianBlur>
+                <feColorMatrix result="out-matrix" in="out-blur" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.60 0"></feColorMatrix>
+                <feMerge>
+                    <feMergeNode in="out-matrix"></feMergeNode>
+                    <feMergeNode in="SourceGraphic"></feMergeNode>
+                </feMerge>
+            </filter>
+        </defs>
+        <path filter="url(#83262a12-be21-47df-9e1f-5a613a202a50_audioOn-comp-lv48ras3)" d="M23 6.616a.625.625 0 0 0-.727-.609l-10.241 1.54a.62.62 0 0 0-.535.609l-.006 10.016c0 .892-.276 1.319-1.971 1.319C7.646 19.49 7 20.631 7 21.748 7 22.655 7.507 24 9.516 24c2.249 0 3.236-1.44 3.236-2.713l.006-9.719 8.98-1.454v6.87c-.045.763-.401 1.13-1.973 1.13-1.874 0-2.52 1.141-2.52 2.258 0 .907.507 2.252 2.516 2.252 2.249 0 3.236-1.44 3.236-2.713L23 6.616z"></path>
+    </g>
+</svg>
